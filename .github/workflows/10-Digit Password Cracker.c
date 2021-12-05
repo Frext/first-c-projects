@@ -4,7 +4,7 @@
 
 
 char AllowedPasswordCharacters[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`!@#$%^&*()_-+={[}]|\\:;\"'<,>.?/"; 
-// I will refer this as "the alphabet".
+// I will refer this string as "the alphabet".
 
 
 unsigned long long int PasswordCount = 0;
