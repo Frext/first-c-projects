@@ -20,6 +20,9 @@ Run the compiled **.exe** file directly instead of your code editor (IDE) so the
   <img width="600" alt="bus_reservation" src="https://github.com/user-attachments/assets/e1b77d61-097e-4102-9bb7-9249bc914199" />
 
 * 🏦 [Banking System](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/Bank_Management_System.c)
+
+  <img width="600" alt="banking_system" src="https://github.com/user-attachments/assets/c0361c25-76ff-47d0-880e-8adc59c5abdf" />
+
 * 📞 [Contacts](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/Contact_Management_System.c)
 * 📝 [Notepad](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/SimpleNotepad.c)
 * 🔐 [PIN](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/Enter_Pin.c)
