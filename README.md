@@ -26,6 +26,9 @@ Run the compiled **.exe** file directly instead of your code editor (IDE) so the
 * 📞 [Contacts](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/Contact_Management_System.c)
 * 📝 [Notepad](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/SimpleNotepad.c)
 * 🔐 [PIN](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/Enter_Pin.c)
+  
+  <img width="600" alt="pin" src="https://github.com/user-attachments/assets/dae05bf1-1b7b-45d4-a0b8-fe7a9010a8eb" />
+
 * 📅 [Calendar](https://github.com/Frext/Basic-C-Projects/blob/main/.github/workflows/Mini_Calendar.c)
 
 ---
