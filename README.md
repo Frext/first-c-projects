@@ -1,6 +1,7 @@
 # 📁 Basic C Projects
 
 [![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Type](https://img.shields.io/badge/Type-Console%20App-orange.svg?style=flat&logo=gnutelephony)](https://en.wikipedia.org/wiki/Console_application)
 
 This repository is a collection of C console applications that I wrote when I was first learning how to code. 
 
