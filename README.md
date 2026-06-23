@@ -1,5 +1,7 @@
 # 📁 Basic C Projects
 
+[![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 This repository is a collection of C console applications that I wrote when I was first learning how to code. 
 
 Because these were my very first steps into programming, the code might contain beginner mistakes and unique workarounds—but they represent the foundation of my coding journey!
